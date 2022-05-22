@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>DisplayedOperatorName</key>
+			<string>C Spire Passpoint</string>
+			<key>DomainName</key>
+			<string>boingo.com</string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>21</integer>
+				</array>
+				<key>OuterIdentity</key>
+				<string>anonymous@cspire.com</string>
+				<key>TLSTrustedServerNames</key>
+				<array>
+					<string>*.boingohotspot.net</string>
+				</array>
+				<key>TTLSInnerAuthentication</key>
+				<string>PAP</string>
+				<key>UserName</key>
+				<string>7ce0721a645b47e1b</string>
+				<key>UserPassword</key>
+				<string>883d635c1f5936f</string>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>NAIRealmNames</key>
+			<array>
+				<string>cspire.com</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.CellularSouth_LTE_US.54c032a0-d474-11eb-bfa8-f45c89abb0d9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>30412916-da0a-11eb-9bd6-f45c89abb0d9</string>
+			<key>PayloadVersion</key>
+			<real>1.0</real>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>QoSMarkingPolicy</key>
+			<dict>
+				<key>QoSMarkingAppleAudioVideoCalls</key>
+				<true/>
+				<key>QoSMarkingEnabled</key>
+				<true/>
+				<key>QoSMarkingWhitelistedAppIdentifiers</key>
+				<array/>
+			</dict>
+			<key>RoamingConsortiumOIs</key>
+			<array/>
+			<key>ServiceProviderRoamingEnabled</key>
+			<true/>
+			<key>_UsingHotspot20</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>C Spire Passpoint Secure profile</string>
+	<key>PayloadDisplayName</key>
+	<string>C Spire Passpoint</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.CellularSouth_LTE_US.ecdd12e8-da0e-11eb-b84e-f45c89abb0d9</string>
+	<key>PayloadOrganization</key>
+	<string>Boingo Wireless</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>ecdd1428-da0e-11eb-b84e-f45c89abb0d9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

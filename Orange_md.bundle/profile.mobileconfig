@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<false/>
+			<key>DisplayedOperatorName</key>
+			<string>Orange</string>
+			<key>DomainName</key>
+			<string>wlan.mnc001.mcc259.3gppnetwork.org</string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>TLSAllowTrustExceptions</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>MCCAndMNCs</key>
+			<array>
+				<string>259001</string>
+			</array>
+			<key>NAIRealmNames</key>
+			<array>
+				<string>orange.md</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.Orange_md.4a02ca4e-d474-11eb-a41a-f45c89abb0d9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>254ec036-da0a-11eb-b1fd-f45c89abb0d9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>ServiceProviderRoamingEnabled</key>
+			<false/>
+			<key>_UsingHotspot20</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<false/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>TLSAllowTrustExceptions</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.Orange_md.4a02cbb6-d474-11eb-a41a-f45c89abb0d9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>254ec18a-da0a-11eb-b1fd-f45c89abb0d9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>Orange WiFi Pro</string>
+			<key>_UsingHotspot20</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Orange WiFi Pro</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.Orange_md.e1dc5c64-da0e-11eb-9701-f45c89abb0d9</string>
+	<key>PayloadOrganization</key>
+	<string>Orange Moldova SA</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>e1dc5d9a-da0e-11eb-9701-f45c89abb0d9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

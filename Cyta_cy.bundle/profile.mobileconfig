@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<false/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>EAPSIMNumberOfRANDs</key>
+				<integer>2</integer>
+			</dict>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.Cyta_cy.56973dd0-d474-11eb-92bf-f45c89abb0d9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>322499e8-da0a-11eb-a94b-f45c89abb0d9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>CytaVoda WiFi</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>CytaVoda WiFi</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.Cyta_cy.eeb9e910-da0e-11eb-b45f-f45c89abb0d9</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>eeb9ea6e-da0e-11eb-b45f-f45c89abb0d9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Configures wireless connectivity settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi (Telia wifi1x)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.NetCom_no.56e6d6b0-d474-11eb-8092-f45c89abb0d9</string>
+			<key>PayloadOrganization</key>
+			<string>Telia Wifi</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>3275e9ba-da0a-11eb-9d22-f45c89abb0d9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>Telia wifi1x</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>SIM/AKA auth for telia wifi1x</string>
+	<key>PayloadDisplayName</key>
+	<string>Telia Wifi 1x</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.NetCom_no.ef0b3022-da0e-11eb-9329-f45c89abb0d9</string>
+	<key>PayloadOrganization</key>
+	<string>Telia Wifi</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>ef0b31a8-da0e-11eb-9329-f45c89abb0d9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

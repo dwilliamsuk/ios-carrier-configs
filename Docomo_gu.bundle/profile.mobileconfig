@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+				</array>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+				<key>TLSAllowTrustExceptions</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi Auto join settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi Auto join with EAP-AKA</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.Docomo_gu.4ee4cb20-d474-11eb-a966-f45c89abb0d9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>2a473d5c-da0a-11eb-8605-f45c89abb0d9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>DPAC0001</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Docomo Pacific EAP-AKA</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.Docomo_gu.e6de8264-da0e-11eb-90d6-f45c89abb0d9</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>e6de83f4-da0e-11eb-90d6-f45c89abb0d9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>TLSAllowTrustExceptions</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures wireless connectivity settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi (MTS Wireless)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.MTS_ca.4fee1d00-d474-11eb-be58-f45c89abb0d9</string>
+			<key>PayloadOrganization</key>
+			<string>MTS Allstream Inc.</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>2b56e1e8-da0a-11eb-a68b-f45c89abb0d9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SSID_STR</key>
+			<string>MTS Wireless</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Provides access to MTS EAP-SIM access points</string>
+	<key>PayloadDisplayName</key>
+	<string>MTS EAP-SIM</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.MTS_ca.e7ebfe2a-da0e-11eb-9eb7-f45c89abb0d9</string>
+	<key>PayloadOrganization</key>
+	<string>MTS Allstream Inc.</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>e7ec003c-da0e-11eb-9eb7-f45c89abb0d9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

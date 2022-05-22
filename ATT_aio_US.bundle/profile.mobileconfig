@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>This profile allows your device to connect to compatible HS2.0 networks.</string>
+	</dict>
+	<key>DisableWiFiAutoJoinUntilFirstUserJoin</key>
+	<false/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>DisplayedOperatorName</key>
+			<string>AT&amp;T Wi-Fi Passpoint</string>
+			<key>DomainName</key>
+			<string>wlan.mnc150.mcc310.3gppnetwork.org</string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+				</array>
+				<key>EAPSIMAKAConservativePeer</key>
+				<true/>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+				<key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24</integer>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>IsHotspot</key>
+			<true/>
+			<key>MCCAndMNCs</key>
+			<array>
+				<string>310150</string>
+			</array>
+			<key>NAIRealmNames</key>
+			<array>
+				<string>wlan.mnc150.mcc310.3gppnetwork.org</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.ATT_aio_US.5221c68a-d474-11eb-8423-f45c89abb0d9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>474B8961-C818-47B9-84CF-4F0BCFEF77D1</string>
+			<key>PayloadVersion</key>
+			<real>1</real>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>ServiceProviderRoamingEnabled</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>This profile enables highly-secure, automatic connections for AT&amp;T Mobility subscribers at participating public hot spots.</string>
+	<key>PayloadDisplayName</key>
+	<string>AT&amp;T Wi-Fi Passpoint</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.ATT_aio_US.ea2a3210-da0e-11eb-a9b7-f45c89abb0d9</string>
+	<key>PayloadOrganization</key>
+	<string>Cricket Wireless</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>127D6591-713A-44EE-AFE9-31B6DF843DB4</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

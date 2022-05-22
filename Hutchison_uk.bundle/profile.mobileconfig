@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Configures Three WiFi settings</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+				</array>
+			</dict>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.5B16F881-8215-4DE3-BD6E-4FFC2419462D</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>33CA1EBF-52D6-4A08-9197-6A9ED1B344F3</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>THREE_WIFI</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Configures Three WiFi settings</string>
+	<key>PayloadDisplayName</key>
+	<string>THREE_WIFI</string>
+	<key>PayloadIdentifier</key>
+	<string>THREE_WIFI</string>
+	<key>PayloadOrganization</key>
+	<string>Hutchison 3G UK Ltd</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4FA872C8-1E42-4D83-A242-5115694A4813</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

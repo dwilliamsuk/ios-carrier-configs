@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<QIMF>
+  <!-- DPL parameters -->
+  <sip_local_port value="5060" />
+  <timer_sip_reg value="600000" />
+  <timer_t1 value="3000" />
+  <timer_t2 value="16000" />
+  <timer_t4 value="17000" />
+  <timer_f value="30000" /> 
+  <timer_j value="30000" />
+  <compact_form value="1" />
+  <sigcomp value="0" />
+  <auth_schema value="1" />
+  <tcp_threshold value="3000" />
+  <ptime value="0" />
+  <initial_buffer_time value="0" />
+  <amr_mode value="0" />
+  <proxy_route value="" />
+  <ipv6_enabled value="1" />
+  <sip_dscp_value value="0" />
+  <msrp_packet_size value="8192" />
+  <ims_param_source value="2" />
+  <ipsec_integ_algo_supported value="3" />
+  <ipsec_encryption_supported value="1" />
+  <ipsec_tcp_disabled value="1" />
+
+
+
+  <!-- IETF parameters -->
+  <app_field id="IETF_CONFIG_USERNAME" type="string" value="sip:440541907120004@mmd.kddi.example.com" />
+  <app_field id="IETF_CONFIG_PASSWORD" type="string" value="pwd" />
+  <app_field id="IETF_CONFIG_DOMAIN" type="string" value="mmd.kddi.example.com" />
+  <app_field id="IETF_CONFIG_PRIVATE_URI" type="string" value="440541907120004@mmd.kddi.example.com" />
+  <!-- app_field id="IETF_CONFIG_DISPLAY_NAME" type="string" value="QC" / -->
+
+  
+    <!-- RegManager parameters -->
+  <app_field id="REGMGR_CONFIG_POWERON_REGISTER" type="int32" value="1" />
+  <app_field id="REGMGR_CONFIG_ON_CALL_REGISTER" type="int32" value="0" />
+  <app_field id="REGMGR_CONFIG_IETF_IMS_REGISTER" type="int32" value="2" />
+  <app_field id="REGMGR_CONFIG_PDP_PROFILE_NAME" type="string" value="profile2" />
+  <app_field id="REGMGR_CONFIG_CDMA_PROFILE_ID" type="string" value="102" />
+  <app_field id="REGMGR_CONFIG_OPTIONS_COUNT" type="int32" value="0" />
+  <app_field id="REGMGR_CONFIG_OPTIONS_USER_AGENT" type="string" value="Qualphone/1.0.0 TC.SW/1.0.0 TC.FR/0;0 TC.BR/0;0 TC.PL/ TC.RT/0 TC.MD/IETF" />
+  <app_field id="REGMGR_CONFIG_OPTIONS_CLASS_ID" type="int32" value="0x01039DF0" />
+  <app_field id="REGMGR_CONFIG_REG_EVENT_PACKAGE" type="int32" value="1" />
+  <app_field id="REGMGR_CONFIG_OPTIONS_OUT_CALLS" type="int32" value="0" />
+  <app_field id="REGMGR_CONFIG_OPTIONS_IN_CALLS" type="int32" value="0" />
+  <app_field id="REGMGR_CONFIG_PCO_ENABLED" type="int32" value="1" />
+  <app_field id="REGMGR_CONFIG_DHCP_ENABLED" type="int32" value="0" />
+  <app_field id="REGMGR_CONFIG_PRECONFIG_ENABLED" type="int32" value="0" />
+  <app_field id="REGMGR_CONFIG_PRECONFIG_SERVER_BASE" type="string" value="172.22.1.10:5060" />
+  <app_field id="REGMGR_CONFIG_RAT" type="int32" value="10" />
+  <app_field id="REGMGR_CONFIG_CDMA_SIP_QOS_PROFILE" type="int32" value="3" />   
+  <app_field id="REGMGR_CONFIG_REGISTRATION_ATTEMPTS" type="int32" value="3" />
+  <app_field id="REGMGR_CONFIG_PERMANENT_PDP_FAILURE" type="int32" value="0" />
+  <app_field id="REGMGR_CONFIG_PDP_FAILURE_SCHEDULE" type="string" value="5,5,5" />
+  <app_field id="REGMGR_CONFIG_EHRPD_PDNRECOVERY_TIMER" type="int32" value="15" /> 
+  <app_field id="REGMGR_CONFIG_PDP_FAILURE_COUNT" type="int32" value="1" /> 
+  <app_field id="REGMGR_CONFIG_NTWK_INIT_DEREG_TIMER" type="int32" value="0" />
+  <app_field id="SMS_CONFIG_SMS_OVER_IP_NETWORK_INDICATION" type="int32" value="1" />
+  <app_field id="SMS_CONFIG_IMS_TEST_MODE" type="int32" value="0" />
+
+<app_field id="IMS_CONFIG_OPERATION_MODE" type="int32" value="1"/>
+ 
+ 
+  <!-- Combinational parameters -->
+  <app_field id="COMBINATIONAL_CONFIG_REALM" type="string" value="" />
+  <app_field id="COMBINATIONAL_CONFIG_PREFIX_LIST" type="string" value="879" />
+  <app_field id="COMBINATIONAL_CONFIG_REMOTE_TEL_URI" type="int32" value="0" />
+  
+  
+  <!-- Presence parameters -->
+  
+  <!-- PoC parameters -->
+  
+  <!-- VoIP parameters -->
+  <app_field id="USERNAME"     type="string" value="sip:310480999990112@vzims.com" />
+  <app_field id="PASSWORD"     type="string" value="85591" />
+  <app_field id="DOMAIN"       type="string" value="vzims.com" />
+  <app_field id="PRIVATE_URI"  type="string" value="sip:310480999990112@ims.vz.ne" />
+  <app_field id="DISPLAY_NAME" type="string" value="qctlabsip1 user" />
+  <app_field id="REGISTRATION_MODE" type="int32" value="2" />
+  <app_field id="VOIP_CONFIG_DOMAIN_NOTF_ENABLED" type="int32" value="1" />
+  <app_field id="VOIP_CONFIG_VDN" type="string" value="08059980000" />
+  <app_field id="SMS_CONFIG_SMS_FORMAT" type="int32" value="1" />
+  
+
+  <!-- Operator specific parameters -->
+  <app_field id="QC_CONFIG_CARRIER_SUPPORTED" type="int32" value="0" />
+  <app_field id="SMS_CONFIG_PHONE_CONTEXT_URI" type="string" value="mmd.kddi.example.com" />
+  
+  <!-- Services parameters -->
+  <app_field id="ACCEPT_CONTACT_BASE" type="struct">
+    <!-- Brew ClassId -->
+    <struct_app_field type="int32" value="0x01039DF0" />
+    <!-- Accept-Contact -->
+    <struct_app_field type="string" length="60" value="+g.3gpp.smsip" />
+    <!-- application attribute in SDP -->
+    <struct_app_field type="string" length="60" value="SMSoIMS" />
+    <!-- Is combinational -->
+    <struct_app_field type="bool" value="false" />
+    <!-- GPRS -->
+    <struct_app_field type="bool" value="false" />
+    <!-- EDGE -->
+    <struct_app_field type="bool" value="false" />
+    <!-- WCDMA -->
+    <struct_app_field type="bool" value="false" />
+    <!-- WLAN -->
+    <struct_app_field type="bool" value="false" />
+    <!-- Enabled -->
+    <struct_app_field type="bool" value="true" />
+    <!-- QOS - Mandatory -->
+    <struct_app_field type="bool" value="false" />
+    <!-- QOS - Optional -->
+    <struct_app_field type="bool" value="false" />
+    <!-- QOS - NotRequired -->
+    <struct_app_field type="bool" value="true" />
+    <!-- iRatMask -->
+    <struct_app_field type="int32" value="0x00000600" />
+  </app_field>
+  
+</QIMF>

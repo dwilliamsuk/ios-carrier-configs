@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<true/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures wireless connectivity settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi (Swisscom_Auto_Login)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.Swisscom_ch.51f8604c-d474-11eb-8107-f45c89abb0d9</string>
+			<key>PayloadOrganization</key>
+			<string>Swisscom (Switzerland) Ltd</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>2d6813f8-da0a-11eb-b33d-f45c89abb0d9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>Swisscom_Auto_Login</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>MOBILE-EAPSIM with WEP
+Swisscom_Auto_Login with WPA2
+Free_Swisscom_Auto_Login with WPA2</string>
+	<key>PayloadDisplayName</key>
+	<string>wep_wpa2_EAPSIM_auto_login_threeSSIDs</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.Swisscom_ch.e9ff1530-da0e-11eb-b336-f45c89abb0d9</string>
+	<key>PayloadOrganization</key>
+	<string>Swisscom (Switzerland) Ltd</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>e9ff1698-da0e-11eb-b336-f45c89abb0d9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

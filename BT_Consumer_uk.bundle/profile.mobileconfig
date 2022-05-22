@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>EAPSIMAKAConservativePeer</key>
+				<false/>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+				<key>EAPSIMAKAPseudonymIdentityLifetimeHours</key>
+				<integer>24</integer>
+			</dict>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures wireless connectivity settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi (EE WiFi-Auto)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.BT_Consumer_uk.86F751ED-ED35-4B07-A062-F5C29005E158</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>592CC3CF-1B8D-4FE9-B1BE-009882198475</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>EE WiFi-Auto</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>EE Wi-Fi</string>
+	<key>PayloadDisplayName</key>
+	<string>EE Wi-Fi</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.BT_Consumer_uk.86F751ED-ED35-4B07-A062-F5C29005E158</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C7F7B62B-2FDA-47A6-95AE-F0650CB2A057</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<true/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<true/>
+				<key>EAPFASTUsePAC</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<true/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures wireless connectivity settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi (HOTmobile)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.Mirs_il.55f7a8c4-d474-11eb-88fe-f45c89abb0d9</string>
+			<key>PayloadOrganization</key>
+			<string>HOTmobile</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>318048c0-da0a-11eb-8242-f45c89abb0d9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>HOTmobile</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>profile for eap-sim on hotmobile iOS 4 and above</string>
+	<key>PayloadDisplayName</key>
+	<string>HOT mobile</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.Mirs_il.ee16d482-da0e-11eb-b07c-f45c89abb0d9</string>
+	<key>PayloadOrganization</key>
+	<string>HOTmobile</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>ee16d630-da0e-11eb-b07c-f45c89abb0d9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

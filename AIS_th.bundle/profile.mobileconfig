@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HasRemovalPasscode</key>
+	<false/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+					<integer>18</integer>
+				</array>
+				<key>EAPSIMNumberOfRANDs</key>
+				<integer>2</integer>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.AIS_th.5015230a-d474-11eb-824d-f45c89abb0d9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>2b7f018c-da0a-11eb-8ee0-f45c89abb0d9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>  AIS SMART Login</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>AIS_EAP_ONLY</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.AIS_th.e813b618-da0e-11eb-898f-f45c89abb0d9</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>e813b762-da0e-11eb-898f-f45c89abb0d9</string>
+	<key>PayloadVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

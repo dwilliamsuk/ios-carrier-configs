@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>本人同意遵守遠傳電信Wi-Fi 無線上網服務契約條款</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>EAPSIMAKAEncryptedIdentityEnabled</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures wireless connectivity settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>WiFi (FET Wi-Fi Auto)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.FarEasTone_tw.50914084-d474-11eb-b0d7-f45c89abb0d9</string>
+			<key>PayloadOrganization</key>
+			<string>遠傳電信股份有限公司</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>2bfdde26-da0a-11eb-bfb1-f45c89abb0d9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>FET Wi-Fi Auto</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>本檔案為安裝於iOS系統設備的遠傳「Wi-Fi自動連網」服務設定檔。本檔案限遠傳電信行動用戶安裝，並須搭配具有3G及Wi-Fi功能的iPhone或iPAD產品。如非上述產品，請勿安裝本檔案。</string>
+	<key>PayloadDisplayName</key>
+	<string>遠傳Wi-Fi自動連網服務</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.FarEasTone_tw.e893d776-da0e-11eb-8dbf-f45c89abb0d9</string>
+	<key>PayloadOrganization</key>
+	<string>遠傳電信股份有限公司</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>e893d988-da0e-11eb-8dbf-f45c89abb0d9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

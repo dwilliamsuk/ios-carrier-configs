@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>18</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>TLSAllowTrustExceptions</key>
+				<true/>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<true/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures wireless connectivity settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi (homerun1x)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.Sonera_fi.506a0974-d474-11eb-b62c-f45c89abb0d9</string>
+			<key>PayloadOrganization</key>
+			<string>Telia</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>2bd57f1c-da0a-11eb-b793-f45c89abb0d9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SSID_STR</key>
+			<string>homerun1x</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>ssid homerun with sim authentication and encrytption</string>
+	<key>PayloadDisplayName</key>
+	<string>homerun1x</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.Sonera_fi.e869cc38-da0e-11eb-9c9e-f45c89abb0d9</string>
+	<key>PayloadOrganization</key>
+	<string>Telia</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>e869ce4a-da0e-11eb-9c9e-f45c89abb0d9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

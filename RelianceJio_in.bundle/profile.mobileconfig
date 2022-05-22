@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisplayedOperatorName</key>
+			<string>Jio</string>
+			<key>DomainName</key>
+			<string>JioPrivateNet</string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>23</integer>
+				</array>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>MCCAndMNCs</key>
+			<array>
+				<string>405873</string>
+				<string>405864</string>
+				<string>405840</string>
+				<string>405854</string>
+				<string>405855</string>
+				<string>405856</string>
+				<string>405857</string>
+				<string>405858</string>
+				<string>405859</string>
+				<string>405860</string>
+				<string>405861</string>
+				<string>405862</string>
+				<string>405863</string>
+				<string>405865</string>
+				<string>405866</string>
+				<string>405867</string>
+				<string>405868</string>
+				<string>405869</string>
+				<string>405870</string>
+				<string>405871</string>
+				<string>405872</string>
+				<string>405874</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.RelianceJio_in.53ae41b8-d474-11eb-805d-f45c89abb0d9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>2f262662-da0a-11eb-a161-f45c89abb0d9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>ServiceProviderRoamingEnabled</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Untitled 3</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.RelianceJio_in.ebc3d5d6-da0e-11eb-8d96-f45c89abb0d9</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>ebc3d734-da0e-11eb-8d96-f45c89abb0d9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
