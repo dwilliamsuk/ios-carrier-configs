@@ -1,4 +1,4 @@
-01-03-21, 46.0
+06-06-22, 50.0
 PPCI&N;Abrev. Net. Name;Net. Type;MCC;MNC;Country Initials;Organisation;Network;SIM;Last Update
 OnAir;OnAir;GSM 1800;901;15;AAA;SITA Switzerland Sarl;ONAIR;8988298;2016-03-02
 AeroMobile;AeroMob;GSM 1800;901;14;AAA;AeroMobile AS;AeroMobile;8988299;2016-03-02
@@ -12,13 +12,19 @@ Telenor Maritime;TelenorM;LTE 1900;901;12;AAM;Telenor Maritime AS;Telenor Mariti
 Telenor Maritime;TelenorM;LTE 800;901;12;AAM;Telenor Maritime AS;Telenor Maritime;8988232;2016-03-16
 Telecom26;T26;GSM 1800;901;46;AAM;Telecom26 AG;Telecom26;8988306;2020-04-28
 Telecom26;T26;GSM 900;901;46;AAM;Telecom26 AG;Telecom26;8988306;2020-04-28
-Tampnet;Tampnet;LTE 1800;242;99;AAM;Tampnet AS ;Tampnet;8947012;2019-03-19
-Tampnet;Tampnet;LTE 800;242;99;AAM;Tampnet AS ;Tampnet;8947012;2019-03-19
-Tampnet;Tampnet;LTE 900;242;99;AAM;Tampnet AS ;Tampnet;8947012;2019-03-19
-Tampnet;Tampnet;GSM 850;311;170;AAM;Tampnet AS ;Tampnet;891170;2019-03-19
-Tampnet;Tampnet;LTE 2100;311;170;AAM;Tampnet AS ;Tampnet;891170;2021-02-08
-Tampnet;Tampnet;LTE 2600;311;170;AAM;Tampnet AS ;Tampnet;891170;2021-02-08
-Tampnet;Tampnet;LTE 850;311;170;AAM;Tampnet AS ;Tampnet;891170;2019-12-09
+Tampnet;Tampnet;GSM 1800;901;71;AAM;Tampnet AS;Tampnet;890157;2022-06-07
+Tampnet;Tampnet;GSM 850;901;71;AAM;Tampnet AS;Tampnet;890157;2022-06-07
+Tampnet;Tampnet;LTE 1800;901;71;AAM;Tampnet AS;Tampnet;890157;2022-06-07
+Tampnet;Tampnet;LTE 2100;901;71;AAM;Tampnet AS;Tampnet;890157;2022-06-07
+Tampnet;Tampnet;LTE 2600;901;71;AAM;Tampnet AS;Tampnet;890157;2022-06-07
+Tampnet;Tampnet;LTE 700;901;71;AAM;Tampnet AS;Tampnet;890157;2022-06-07
+Tampnet;Tampnet;LTE 800;901;71;AAM;Tampnet AS;Tampnet;890157;2022-06-07
+Tampnet;Tampnet;LTE 850;901;71;AAM;Tampnet AS;Tampnet;890157;2022-06-07
+Tampnet;Tampnet;LTE 900;901;71;AAM;Tampnet AS;Tampnet;890157;2022-06-07
+Tampnet;Tampnet;GSM 850;311;170;AAM;Tampnet AS;Tampnet;891170;2019-03-19
+Tampnet;Tampnet;LTE 2100;311;170;AAM;Tampnet AS;Tampnet;891170;2021-02-08
+Tampnet;Tampnet;LTE 2600;311;170;AAM;Tampnet AS;Tampnet;891170;2021-02-08
+Tampnet;Tampnet;LTE 850;311;170;AAM;Tampnet AS;Tampnet;891170;2019-12-09
 Inmarsat;INX;GSM Satellite;901;11;AAQ;Inmarsat Global Ltd;Inmarsat Global;8987099;2016-03-16
 EchoStar Mobile;EML;MSS 2000;901;50;AAQ;EchoStar Mobile Ltd;EchoStar Mobile Ltd;8988248;2016-02-02
 AW Digicel;Digicel;3G 2100;363;02;ABW;New Millennium Telecom Services NV;Digicel;8929702;2016-01-12
@@ -36,8 +42,8 @@ Etisalat Af;Etisalat;GSM 900;412;50;AFG;Emirates Telecommunications Corporation 
 MTN AF;MTN;GSM 1800;412;40;AFG;MTN Afghanistan;MTN Afghanistan;899340;2012-02-01
 MTN AF;MTN;GSM 900;412;40;AFG;MTN Afghanistan;MTN Afghanistan;899340;2012-02-01
 ROSHAN;ROSHAN;GSM 900;412;20;AFG;Telecom Development Company Afghanistan Limited;ROSHAN;899379;2011-10-20
-AF AWCC;AWCC;GSM 1800;412;01;AFG;Afghan Wireless Communication Company ;AWCC;899301;2012-02-09
-AF AWCC;AWCC;GSM 900;412;01;AFG;Afghan Wireless Communication Company ;AWCC;899301;2012-02-09
+AF AWCC;AWCC;GSM 1800;412;01;AFG;Afghan Wireless Communication Company;AWCC;899301;2012-02-09
+AF AWCC;AWCC;GSM 900;412;01;AFG;Afghan Wireless Communication Company;AWCC;899301;2012-02-09
 MOVICEL;AGOMV;3G 900;631;04;AGO;Movicel - Telecomunicações, S.A. ;MOVICEL;8924404;2017-05-12
 MOVICEL;AGOMV;GSM 1800;631;04;AGO;Movicel - Telecomunicações, S.A. ;MOVICEL;8924404;2017-05-12
 MOVICEL;AGOMV;GSM 900;631;04;AGO;Movicel - Telecomunicações, S.A. ;MOVICEL;8924404;2017-05-12
@@ -106,6 +112,8 @@ Beeline AM;Beeline;3G 2100;283;01;ARM;Telecom Armenia CJSC;ARMGSM;8937401;2017-1
 Beeline AM;Beeline;GSM 1800;283;01;ARM;Telecom Armenia CJSC;ARMGSM;8937401;2015-06-29
 Beeline AM;Beeline;GSM 900;283;01;ARM;Telecom Armenia CJSC;ARMGSM;8937401;2015-06-29
 Bluesky Communications;BLUESKY;3G 850;544;110;ASM;AST Telecom, LLC;BLUESKY;891684;2012-03-26
+ASM ASTCA;ASTCA;LTE 1900;313;120;ASM;American Samoa Telecommunications Authority (ASTCA);ASTCA;890112;2022-04-25
+ASM ASTCA;ASTCA;LTE 700;313;120;ASM;American Samoa Telecommunications Authority (ASTCA);ASTCA;890112;2022-04-25
 FLOW;FLOW;GSM 850;344;920;ATG;Cable & Wireless Antigua & Barbuda Ltd;FLOW;8901011;2016-08-22
 Cingular;Cingular;GSM 900;344;930;ATG;Antigua Wireless Ventures Limited;Digicel Antigua & Barbuda;891380;2015-02-04
 APUA inet;inet;GSM 1900;344;03;ATG;Antigua Public Utilities Authority (APUA);APUA inet;8901030;2019-11-04
@@ -181,12 +189,12 @@ AZEAC;Azercell;3G 2100;400;01;AZE;Azercell Telecom LLC;AZERCELL GSM;8999401;2015
 AZEAC;Azercell;GSM 900;400;01;AZE;Azercell Telecom LLC;AZERCELL GSM;8999401;2015-11-18
 AZEAC;Azercell;LTE 1800;400;01;AZE;Azercell Telecom LLC;AZERCELL GSM;8999401;2015-11-18
 ONATEL BDI;ONATEL;GSM 900;642;03;BDI;Onatel;ONATEL;8964203;2005-07-07
-BASE;BASE;3G 2100;206;20;BEL;Telenet Group BVBA/SPRL;BASE;893203;2016-02-04
-BASE;BASE;3G 900;206;20;BEL;Telenet Group BVBA/SPRL;BASE;893203;2016-02-04
-BASE;BASE;GSM 1800;206;20;BEL;Telenet Group BVBA/SPRL;BASE;893203;2016-02-04
-BASE;BASE;GSM 900;206;20;BEL;Telenet Group BVBA/SPRL;BASE;893203;2016-02-04
-BASE;BASE;LTE 1800;206;20;BEL;Telenet Group BVBA/SPRL;BASE;893203;2016-02-04
-BASE;BASE;LTE 800;206;20;BEL;Telenet Group BVBA/SPRL;BASE;893203;2016-02-04
+BASE;BASE;3G 2100;206;20;BEL;Telenet Group NV/SA;BASE;893203;2016-02-04
+BASE;BASE;3G 900;206;20;BEL;Telenet Group NV/SA;BASE;893203;2016-02-04
+BASE;BASE;GSM 1800;206;20;BEL;Telenet Group NV/SA;BASE;893203;2016-02-04
+BASE;BASE;GSM 900;206;20;BEL;Telenet Group NV/SA;BASE;893203;2016-02-04
+BASE;BASE;LTE 1800;206;20;BEL;Telenet Group NV/SA;BASE;893203;2016-02-04
+BASE;BASE;LTE 800;206;20;BEL;Telenet Group NV/SA;BASE;893203;2016-02-04
 Orange B;OBE;3G 2100;206;10;BEL;ORANGE Belgium nv/SA;Orange Belgium;893202;2016-05-03
 Orange B;OBE;3G 900;206;10;BEL;ORANGE Belgium nv/SA;Orange Belgium;893202;2016-05-03
 Orange B;OBE;GSM 1800;206;10;BEL;ORANGE Belgium nv/SA;Orange Belgium;893202;2016-05-03
@@ -225,11 +233,11 @@ Vivacom BG;Vivacom;3G 900;284;03;BGR;Bulgarian Telecommunications Company EAD;Vi
 Vivacom BG;Vivacom;GSM 1800;284;03;BGR;Bulgarian Telecommunications Company EAD;Vivacom;8935903;2016-05-16
 Vivacom BG;Vivacom;GSM 900;284;03;BGR;Bulgarian Telecommunications Company EAD;Vivacom;8935903;2016-05-16
 Vivacom BG;Vivacom;LTE 1800;284;03;BGR;Bulgarian Telecommunications Company EAD;Vivacom;8935903;2016-05-16
-Telenor BG;Telenor;3G 2100;284;05;BGR;Telenor Bulgaria EAD;Telenor;8935905;2016-03-02
-Telenor BG;Telenor;3G 900;284;05;BGR;Telenor Bulgaria EAD;Telenor;8935905;2016-03-02
-Telenor BG;Telenor;GSM 1800;284;05;BGR;Telenor Bulgaria EAD;Telenor;8935905;2016-03-02
-Telenor BG;Telenor;GSM 900;284;05;BGR;Telenor Bulgaria EAD;Telenor;8935905;2016-03-02
-Telenor BG;Telenor;LTE 1800;284;05;BGR;Telenor Bulgaria EAD;Telenor;8935905;2016-03-02
+Yettel BG;Yettel;3G 2100;284;05;BGR;Yettel Bulgaria EAD;Yettel;8935905;2022-05-11
+Yettel BG;Yettel;3G 900;284;05;BGR;Yettel Bulgaria EAD;Yettel;8935905;2022-05-11
+Yettel BG;Yettel;GSM 1800;284;05;BGR;Yettel Bulgaria EAD;Yettel;8935905;2022-05-11
+Yettel BG;Yettel;GSM 900;284;05;BGR;Yettel Bulgaria EAD;Yettel;8935905;2022-05-11
+Yettel BG;Yettel;LTE 1800;284;05;BGR;Yettel Bulgaria EAD;Yettel;8935905;2022-05-11
 A1 BG;A1 BG;3G 2100;284;01;BGR;A1 Bulgaria EAD;A1 BG;8935901;2018-06-20
 A1 BG;A1 BG;3G 900;284;01;BGR;A1 Bulgaria EAD;A1 BG;8935901;2018-06-20
 A1 BG;A1 BG;GSM 1800;284;01;BGR;A1 Bulgaria EAD;A1 BG;8935901;2018-06-20
@@ -588,6 +596,9 @@ CHN-UNICOM;UNICOM;GSM 1800;460;01;CHN;China Unicom;CHINA UNICOM GSM;898601;2015-
 CHN-UNICOM;UNICOM;GSM 900;460;01;CHN;China Unicom;CHINA UNICOM GSM;898601;2015-09-07
 CHN-UNICOM;UNICOM;LTE 2300;460;01;CHN;China Unicom;CHINA UNICOM GSM;898601;2015-09-07
 CHN-UNICOM;UNICOM;LTE 2600;460;01;CHN;China Unicom;CHINA UNICOM GSM;898601;2015-09-07
+CHINA BROADNET;CBN;NR 3300;460;15;CHN;China Broadcasting Network Group Corporation Ltd.;CHINA BROADNET;898615;2022-04-26
+CHINA BROADNET;CBN;NR 4900;460;15;CHN;China Broadcasting Network Group Corporation Ltd.;CHINA BROADNET;898615;2022-04-26
+CHINA BROADNET;CBN;NR 700;460;15;CHN;China Broadcasting Network Group Corporation Ltd.;CHINA BROADNET;898615;2022-04-26
 KoZ;KoZ;GSM 1800;612;04;CIV;Comium Côte d'Ivoire SA (CCI SA);Comium Ivory Coast INC.;8922504;2012-04-24
 KoZ;KoZ;GSM 900;612;04;CIV;Comium Côte d'Ivoire SA (CCI SA);Comium Ivory Coast INC.;8922504;2012-04-24
 MOOV CI;MOOV;GSM 1800;612;02;CIV;Atlantique Telecom Côte d'Ivoire;MOOV CI;8922502;2015-03-18
@@ -933,7 +944,7 @@ Foroya Tele;FT-GSM;3G 900;288;01;FRO;FT Samskifti;Faroese Telecom;8929801;2012-0
 Foroya Tele;FT-GSM;GSM 900;288;01;FRO;FT Samskifti;Faroese Telecom;8929801;2012-09-13
 Foroya Tele;FT-GSM;LTE 800;288;01;FRO;FT Samskifti;Faroese Telecom;8929801;2018-03-21
 FSM Telecom;FSM Tele;GSM 900;550;01;FSM;Federated States of Micronesia Telecommunications Corporation;FSM Telecommunications Corporation;8969101;2016-05-27
-LIBERTIS;LIBERTIS;GSM 900;628;01;GAB;Libertis S.A.;LIBERTIS;8924101;2012-08-09
+LIBERTIS;LIBERTIS;GSM 900;628;01;GAB;Gabon Telecom ;LIBERTIS;8924101;2012-08-09
 ETISALAT GAB;ETISALAT;GSM 900;628;02;GAB;Atlantique Telecom Gabon S.A.;ETISALAT GABON;8924101;2012-01-16
 Airtel-Vodafone;ATL-VOD;3G 2100;234;03;GBR;Jersey Airtel Limited;Airtel-Vodafone;894476;2016-03-02
 Airtel-Vodafone;ATL-VOD;3G 900;234;03;GBR;Jersey Airtel Limited;Airtel-Vodafone;894476;2016-03-02
@@ -1056,15 +1067,6 @@ vodafone GR;voda GR;LTE 800;202;05;GRC;Vodafone-Panafon Hellenic Telecommunicati
 GR COSMOTE;C-OTE;3G 2100;202;01;GRC;COSMOTE MOBILE TELECOMMUNICATIONS SINGE MEMBER S.A.;COSMOTE;893001;2016-03-16
 GR COSMOTE;C-OTE;GSM 1800;202;01;GRC;COSMOTE MOBILE TELECOMMUNICATIONS SINGE MEMBER S.A.;COSMOTE;893001;2016-03-16
 GR COSMOTE;C-OTE;GSM 900;202;01;GRC;COSMOTE MOBILE TELECOMMUNICATIONS SINGE MEMBER S.A.;COSMOTE;893001;2016-03-16
-NOVA GR;NOVA GR;3G 2100;202;17;GRC;Forthnet S.A. - Hellenic Telecom & Telematic Application SA  ;NOVA;893011;2020-07-20
-NOVA GR;NOVA GR;3G 900;202;17;GRC;Forthnet S.A. - Hellenic Telecom & Telematic Application SA  ;NOVA;893011;2020-07-20
-NOVA GR;NOVA GR;GSM 1800;202;17;GRC;Forthnet S.A. - Hellenic Telecom & Telematic Application SA  ;NOVA;893011;2020-07-20
-NOVA GR;NOVA GR;GSM 900;202;17;GRC;Forthnet S.A. - Hellenic Telecom & Telematic Application SA  ;NOVA;893011;2020-07-20
-NOVA GR;NOVA GR;LTE 1800;202;17;GRC;Forthnet S.A. - Hellenic Telecom & Telematic Application SA  ;NOVA;893011;2020-07-20
-NOVA GR;NOVA GR;LTE 2600;202;17;GRC;Forthnet S.A. - Hellenic Telecom & Telematic Application SA  ;NOVA;893011;2020-07-20
-NOVA GR;NOVA GR;LTE 800;202;17;GRC;Forthnet S.A. - Hellenic Telecom & Telematic Application SA  ;NOVA;893011;2020-07-20
-DIGICEL;DIGICEL;GSM 1800;352;030;GRD;Digicel Grenada Limited;Digicel;8901050;2004-11-05
-DIGICEL;DIGICEL;GSM 900;352;030;GRD;Digicel Grenada Limited;Digicel;8901050;2004-11-05
 FLOW;FLOW;GSM 850;352;110;GRD;Cable & Wireless Grenada Limited;FLOW;8901017;2016-08-22
 TELE Greenland;TELE GRL;3G 900;290;01;GRL;Tele Greenland A/S;TELE Greenland;8929901;2016-05-25
 TELE Greenland;TELE GRL;GSM 900;290;01;GRL;Tele Greenland A/S;TELE Greenland;8929901;2012-07-05
@@ -1389,12 +1391,10 @@ Telekom HU;THU;GSM 900;216;30;HUN;Magyar Telekom Nyrt.;T-Mobile Hungary;893630;2
 Telekom HU;THU;LTE 1800;216;30;HUN;Magyar Telekom Nyrt.;T-Mobile Hungary;893630;2015-02-25
 Telekom HU;THU;LTE 2600;216;30;HUN;Magyar Telekom Nyrt.;T-Mobile Hungary;893630;2015-02-25
 Telekom HU;THU;LTE 800;216;30;HUN;Magyar Telekom Nyrt.;T-Mobile Hungary;893630;2015-02-25
-Telenor HU;TelenorH;GSM 1800;216;01;HUN;Telenor Magyarország Zártkörűen Működő Részvénytársaság;Telenor;893620;2016-03-02
-Telenor HU;TelenorH;GSM 900;216;01;HUN;Telenor Magyarország Zártkörűen Működő Részvénytársaság;Telenor;893620;2016-03-02
-Telenor HU;TelenorH;3G 2100;216;01;HUN;Telenor Magyarország Zártkörűen Működő Részvénytársaság;Telenor 3G;893620;2016-03-02
+Telenor HU;TelenorH;GSM 1800;216;01;HUN;Yettel Hungary Ltd.;Telenor;893620;2016-03-02
+Telenor HU;TelenorH;GSM 900;216;01;HUN;Yettel Hungary Ltd.;Telenor;893620;2016-03-02
+Telenor HU;TelenorH;3G 2100;216;01;HUN;Yettel Hungary Ltd.;Telenor 3G;893620;2016-03-02
 Digi.Mobil HU;Digi HU;LTE 1800;216;03;HUN;DIGI Telecommunication and Services Ltd.;Digi.Mobil HU;893650;2019-05-29
-3;3;3G 2100;510;89;IDN;PT. Hutchison 3 Indonesia;3;896289;2016-02-04
-3;3;GSM 1800;510;89;IDN;PT. Hutchison 3 Indonesia;3;896289;2016-02-04
 IND TELKOMSEL;T-SEL;3G 2100;510;10;IDN;PT Telekomunikasi Selular;TELKOMSEL;896210;2015-12-14
 IND TELKOMSEL;T-SEL;GSM 1800;510;10;IDN;PT Telekomunikasi Selular;TELKOMSEL;896210;2015-12-14
 IND TELKOMSEL;T-SEL;GSM 900;510;10;IDN;PT Telekomunikasi Selular;TELKOMSEL;896210;2015-12-14
@@ -1412,9 +1412,22 @@ IND XL;Axis;GSM 1800;510;08;IDN;PT. XL Axiata Tbk;XL Axiata;896208;2017-08-02
 IND XL;Axis;GSM 900;510;08;IDN;PT. XL Axiata Tbk;XL Axiata;896208;2017-08-02
 IND XL;Axis;LTE 1800;510;08;IDN;PT. XL Axiata Tbk;XL Axiata;896208;2017-08-02
 IND XL;Axis;LTE 900;510;08;IDN;PT. XL Axiata Tbk;XL Axiata;896208;2017-08-02
+3;3;3G 2100;510;89;IDN;PT Indosat Tbk;Indosat Ooredoo Hutchison;896289;2022-04-06
+3;3;GSM 1800;510;89;IDN;PT Indosat Tbk;Indosat Ooredoo Hutchison;896289;2022-04-06
+3;3;LTE 1800;510;89;IDN;PT Indosat Tbk;Indosat Ooredoo Hutchison;896289;2022-04-06
+3;3;LTE 2100;510;89;IDN;PT Indosat Tbk;Indosat Ooredoo Hutchison;896289;2022-04-06
+IND INDOSAT;INDOSAT;3G 2100;510;21;IDN;PT Indosat Tbk;INDOSATOOREDOO;896221;2022-03-02
+IND INDOSAT;INDOSAT;3G 900;510;21;IDN;PT Indosat Tbk;INDOSATOOREDOO;896221;2022-03-02
 IND INDOSAT;INDOSAT;GSM 1800;510;21;IDN;PT Indosat Tbk;INDOSATOOREDOO;896221;2016-03-02
+IND INDOSAT;INDOSAT;GSM 900;510;21;IDN;PT Indosat Tbk;INDOSATOOREDOO;896221;2022-03-02
+IND INDOSAT;INDOSAT;LTE 1800;510;21;IDN;PT Indosat Tbk;INDOSATOOREDOO;896221;2022-03-02
+IND INDOSAT;INDOSAT;LTE 900;510;21;IDN;PT Indosat Tbk;INDOSATOOREDOO;896221;2022-03-02
+IND INDOSAT;INDOSAT;3G 2100;510;01;IDN;PT Indosat Tbk;INDOSATOOREDOO;896201;2022-03-02
+IND INDOSAT;INDOSAT;3G 900;510;01;IDN;PT Indosat Tbk;INDOSATOOREDOO;896201;2022-03-02
 IND INDOSAT;INDOSAT;GSM 1800;510;01;IDN;PT Indosat Tbk;INDOSATOOREDOO;896201;2016-03-02
 IND INDOSAT;INDOSAT;GSM 900;510;01;IDN;PT Indosat Tbk;INDOSATOOREDOO;896201;2016-03-02
+IND INDOSAT;INDOSAT;LTE 1800;510;01;IDN;PT Indosat Tbk;INDOSATOOREDOO;896201;2022-03-02
+IND INDOSAT;INDOSAT;LTE 900;510;01;IDN;PT Indosat Tbk;INDOSATOOREDOO;896201;2022-03-02
 Smartfren;SF;CDMA 2000 1X;510;09;IDN;PT. Smartfren Telecom Tbk.;Smartfren Telecom;896209;2015-11-24
 Smartfren;SF;LTE-TDD 2300;510;09;IDN;PT. Smartfren Telecom Tbk.;Smartfren Telecom;896209;2015-11-24
 Smartfren;SF;CDMA 2000 1X;510;28;IDN;PT. Smartfren Telecom Tbk.;Smartfren Telecom;896228;2015-11-24
@@ -1685,7 +1698,6 @@ Vodafone;Vodafone;LTE 2100;274;02;ISL;Sýn hf.;Vodafone Iceland;8935402;2017-01-
 Vodafone;Vodafone;LTE 2600;274;02;ISL;Sýn hf.;Vodafone Iceland;8935402;2019-01-04
 Vodafone;Vodafone;LTE 800;274;02;ISL;Sýn hf.;Vodafone Iceland;8935402;2016-03-16
 Vodafone;Vodafone;LTE 900;274;02;ISL;Sýn hf.;Vodafone Iceland;8935402;2019-01-04
-Viking;Viking;GSM 1800;274;04;ISL;IMC Ísland ehf.;Viking wireless;8935404;2016-03-16
 IS OnWaves;OnWaves;GSM 1800;274;08;ISL;Síminn h.f.;NE - On-Waves;8935408;2016-03-10
 IS OnWaves;OnWaves;GSM 900;274;08;ISL;Síminn h.f.;NE - On-Waves;8935408;2016-03-10
 IS SIMINN;SIMINN;3G 2100;274;01;ISL;Síminn h.f.;Siminn;8935401;2016-03-10
@@ -1740,10 +1752,10 @@ I TIM;TIM;LTE 800;222;01;ITA;Telecom Italia SpA;TIM;893901;2015-11-18
 vodafone IT;voda IT;3G 2100;222;10;ITA;Vodafone Italia S.p.A;vodafone;893910;2016-03-03
 vodafone IT;voda IT;GSM 1800;222;10;ITA;Vodafone Italia S.p.A;vodafone;893910;2016-03-03
 vodafone IT;voda IT;GSM 900;222;10;ITA;Vodafone Italia S.p.A;vodafone;893910;2016-03-03
-ILIAD;ILIAD;3G 2100;222;50;ITA;ILIAD Italia S.p.A. ;ILIAD ITALIA;893950;2017-09-26
-ILIAD;ILIAD;3G 900;222;50;ITA;ILIAD Italia S.p.A. ;ILIAD ITALIA;893950;2017-09-26
-ILIAD;ILIAD;LTE 1800;222;50;ITA;ILIAD Italia S.p.A. ;ILIAD ITALIA;893950;2017-09-26
-ILIAD;ILIAD;LTE 2600;222;50;ITA;ILIAD Italia S.p.A. ;ILIAD ITALIA;893950;2017-09-26
+ILIAD;ILIAD;3G 2100;222;50;ITA;ILIAD Italia S.p.A.;ILIAD ITALIA;893950;2017-09-26
+ILIAD;ILIAD;3G 900;222;50;ITA;ILIAD Italia S.p.A.;ILIAD ITALIA;893950;2017-09-26
+ILIAD;ILIAD;LTE 1800;222;50;ITA;ILIAD Italia S.p.A.;ILIAD ITALIA;893950;2017-09-26
+ILIAD;ILIAD;LTE 2600;222;50;ITA;ILIAD Italia S.p.A.;ILIAD ITALIA;893950;2017-09-26
 FLOW;FLOW;GSM 1900;338;180;JAM;Cable & Wireless Jamaica Limited;FLOW;8901018;2016-08-22
 Digicel;Digicel;3G 1800;338;050;JAM;Digicel (Jamaica) Limited;Digicel Jamaica;891050;2016-03-16
 Digicel;Digicel;3G 1900;338;050;JAM;Digicel (Jamaica) Limited;Digicel Jamaica;891050;2016-03-16
@@ -1756,9 +1768,13 @@ Orange JO;OrangeJO;GSM 900;416;77;JOR;Petra Jordanian Mobile Telecommunications 
 Zain JO;Zain JO;GSM 900;416;01;JOR;Jordan Mobile Telephone Services Company, Ltd.;Zain JO;8996201;2013-02-20
 KDDI;KDDI;LTE 2100;440;50;JPN;KDDI Corporation;KDDI Corporation;8981300;2016-03-02
 KDDI;KDDI;LTE 800;440;50;JPN;KDDI Corporation;KDDI Corporation;8981300;2016-03-02
+KDDI;KDDI;NRn 257;440;54;JPN;KDDI Corporation;KDDI Corporation;8981300;2022-05-19
+KDDI;KDDI;NRn 77;440;54;JPN;KDDI Corporation;KDDI Corporation;8981300;2022-05-19
 KDDI;KDDI;LTE 1500;440;51;JPN;KDDI Corporation;KDDI Corporation;8981300;2016-03-02
 KDDI;KDDI;LTE 2100;440;51;JPN;KDDI Corporation;KDDI Corporation;8981300;2016-03-02
 KDDI;KDDI;LTE 800;440;51;JPN;KDDI Corporation;KDDI Corporation;8981300;2016-03-02
+KDDI;KDDI;NRn 257;440;54;JPN;KDDI Corporation;KDDI Corporation;8981300;2022-05-19
+KDDI;KDDI;NRn 77;440;54;JPN;KDDI Corporation;KDDI Corporation;8981300;2022-05-19
 SoftBank;SoftBank;3G 2100;440;20;JPN;SoftBank Corp.;SoftBank;898120;2018-12-13
 SoftBank;SoftBank;3G 900;440;20;JPN;SoftBank Corp.;SoftBank;898120;2018-12-13
 SoftBank;SoftBank;LTE-FDD 1500;440;20;JPN;SoftBank Corp.;SoftBank;898120;2018-04-04
@@ -1796,7 +1812,7 @@ Airtel;Airtel;GSM 1800;639;03;KEN;Airtel Networks Kenya Limited;Airtel;8925403;2
 Airtel;Airtel;GSM 900;639;03;KEN;Airtel Networks Kenya Limited;Airtel;8925403;2015-12-14
 Safaricom;SAF-COM;GSM 1800;639;02;KEN;Safaricom PLC;Safaricom;8925402;2016-03-16
 Safaricom;SAF-COM;GSM 900;639;02;KEN;Safaricom PLC;Safaricom;8925402;2016-03-16
-FAIBA;FAIBA;LTE 700;639;10;KEN;Jamii Telecommunications Limited ;FAIBA;8925410;2017-08-30
+FAIBA;FAIBA;LTE 700;639;10;KEN;Jamii Telecommunications Limited;FAIBA;8925410;2017-08-30
 O!;O!;3G 2100;437;09;KGZ;Nur Telecom LLC;O!;8999609;2016-03-02
 O!;O!;GSM 1800;437;09;KGZ;Nur Telecom LLC;O!;8999609;2016-03-02
 O!;O!;GSM 900;437;09;KGZ;Nur Telecom LLC;O!;8999609;2016-03-02
@@ -2099,10 +2115,10 @@ Telekom.me;T.me;GSM 900;297;02;MNE;Crnogorski Telekom a.d. Podgorica ;Telekom.me
 Telekom.me;T.me;LTE 1800;297;02;MNE;Crnogorski Telekom a.d. Podgorica ;Telekom.me;8938200;2015-09-23
 Telekom.me;T.me;LTE 2600;297;02;MNE;Crnogorski Telekom a.d. Podgorica ;Telekom.me;8938200;2019-01-22
 Telekom.me;T.me;LTE 800;297;02;MNE;Crnogorski Telekom a.d. Podgorica ;Telekom.me;8938200;2019-01-22
-Telenor;Telenor;3G 2100;297;01;MNE;Telenor d.o.o. Podgorica;Telenor;8938201;2016-03-16
-Telenor;Telenor;GSM 1800;297;01;MNE;Telenor d.o.o. Podgorica;Telenor;8938201;2016-03-16
-Telenor;Telenor;GSM 900;297;01;MNE;Telenor d.o.o. Podgorica;Telenor;8938201;2016-03-16
-Telenor;Telenor;LTE 1800;297;01;MNE;Telenor d.o.o. Podgorica;Telenor;8938201;2016-03-16
+One;One;3G 2100;297;01;MNE;One Crna Gora DOO;One;8938201;2022-04-20
+One;One;GSM 1800;297;01;MNE;One Crna Gora DOO;One;8938201;2022-04-20
+One;One;GSM 900;297;01;MNE;One Crna Gora DOO;One;8938201;2022-04-20
+One;One;LTE 1800;297;01;MNE;One Crna Gora DOO;One;8938201;2022-04-20
 MN MobiCom;MobiCom;3G 2100;428;99;MNG;MobiCom Corporation;MobiCom;8997699;2015-10-08
 MN MobiCom;MobiCom;GSM 900;428;99;MNG;MobiCom Corporation;MobiCom;8997699;2015-10-08
 MONGOLIA UNITEL LLC;UNTLMN;3G 2100;428;88;MNG;Unitel LLC;Unitel;8997688;2016-04-18
@@ -2112,6 +2128,7 @@ MONGOLIA UNITEL LLC;UNTLMN;LTE-FDD 1800;428;88;MNG;Unitel LLC;Unitel;8997688;201
 MONGOLIA UNITEL LLC;UNTLMN;LTE-FDD 700;428;88;MNG;Unitel LLC;Unitel;8997688;2016-05-25
 Skytel MN;Skytel;3G 2100;428;01;MNG;Skytel LLC;Skytel;8997691;2014-03-20
 Skytel MN;Skytel;LTE 1800;428;01;MNG;Skytel LLC;Skytel;8997691;2019-03-26
+ONDO;ONDO;LTE-TDD 2300;428;33;MNG;IN Mobile Network LLC;IN Mobile Network LLC;8997633;2022-05-12
 VodaCom-MZ;VodaCom;3G 2100;643;04;MOZ;Vodacom Moçambique, S.A.;Vodacom Mozambique;8925804;2016-11-21
 VodaCom-MZ;VodaCom;GSM 1800;643;04;MOZ;Vodacom Moçambique, S.A.;Vodacom Mozambique;8925804;2016-11-21
 VodaCom-MZ;VodaCom;GSM 900;643;04;MOZ;Vodacom Moçambique, S.A.;Vodacom Mozambique;8925804;2016-03-16
@@ -2183,15 +2200,15 @@ MTN - NG;MTN-NG;3G 2100;621;30;NGA;MTN Nigeria Communications Limited;MTN Nigeri
 MTN - NG;MTN-NG;GSM 1800;621;30;NGA;MTN Nigeria Communications Limited;MTN Nigeria;8923430;2016-12-09
 MTN - NG;MTN-NG;GSM 900;621;30;NGA;MTN Nigeria Communications Limited;MTN Nigeria;8923430;2012-07-05
 MTN - NG;MTN-NG;LTE 2600;621;30;NGA;MTN Nigeria Communications Limited;MTN Nigeria;8923430;2016-12-09
-Tigo;Tigo;3G 1900;710;300;NIC;Telefónia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-12
-Tigo;Tigo;3G 850;710;300;NIC;Telefónia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-12
-Tigo;Tigo;GSM 1900;710;300;NIC;Telefónia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-13
-Tigo;Tigo;GSM 850;710;300;NIC;Telefónia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-13
-Tigo;Tigo;LTE 1700;710;300;NIC;Telefónia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-13
-Tigo;Tigo;LTE 1900;710;300;NIC;Telefónia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-12
-Tigo;Tigo;LTE 700;710;300;NIC;Telefónia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-12
-Tigo;Tigo;LTE 850;710;300;NIC;Telefónia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-13
-Tigo;Tigo;PCS 1900;710;300;NIC;Telefónia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-09-22
+Tigo;Tigo;3G 1900;710;300;NIC;Telefonia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-12
+Tigo;Tigo;3G 850;710;300;NIC;Telefonia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-12
+Tigo;Tigo;GSM 1900;710;300;NIC;Telefonia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-13
+Tigo;Tigo;GSM 850;710;300;NIC;Telefonia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-13
+Tigo;Tigo;LTE 1700;710;300;NIC;Telefonia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-13
+Tigo;Tigo;LTE 1900;710;300;NIC;Telefonia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-12
+Tigo;Tigo;LTE 700;710;300;NIC;Telefonia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-12
+Tigo;Tigo;LTE 850;710;300;NIC;Telefonia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-08-13
+Tigo;Tigo;PCS 1900;710;300;NIC;Telefonia Celular de Nicaragua S.A. (TCN);Tigo;8950530;2020-09-22
 CLARO NIC;ClaroNIC;3G 850;710;21;NIC;Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL;CLARO NIC;8950521;2015-11-04
 CLARO NIC;ClaroNIC;GSM 1900;710;21;NIC;Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL;CLARO NIC;8950573;2015-11-04
 CLARO NIC;ClaroNIC;GSM 850;710;21;NIC;Empresa Nicaraguense de Telecomunicaciones S.A. - ENITEL;CLARO NIC;8950573;2015-11-04
@@ -2220,9 +2237,9 @@ N Telenor;TELENOR;GSM 900;242;01;NOR;Telenor Norge AS;TELENOR;894701;2016-04-04
 N Telenor;TELENOR;LTE 1800;242;01;NOR;Telenor Norge AS;TELENOR;894701;2016-04-04
 N Telenor;TELENOR;LTE 2600;242;01;NOR;Telenor Norge AS;TELENOR;894701;2016-04-04
 N Telenor;TELENOR;LTE 800;242;01;NOR;Telenor Norge AS;TELENOR;894701;2016-04-04
-N NetCom;NetCom;3G 2100;242;02;NOR;Telia Norge AS;NetCom;894708;2015-12-14
-N NetCom;NetCom;GSM 1800;242;02;NOR;Telia Norge AS;NetCom;894708;2015-12-14
-N NetCom;NetCom;GSM 900;242;02;NOR;Telia Norge AS;NetCom;894708;2015-12-14
+N Telia;N Telia;3G 2100;242;02;NOR;Telia Norge AS;NetCom;894708;2022-05-06
+N Telia;N Telia;GSM 1800;242;02;NOR;Telia Norge AS;NetCom;894708;2022-05-06
+N Telia;N Telia;GSM 900;242;02;NOR;Telia Norge AS;NetCom;894708;2022-05-06
 N ice;ice;LTE 1800;242;14;NOR;ICE Communication Norge AS;ICE Norge AS;894707;2019-08-13
 N ice;ice;LTE 2100;242;14;NOR;ICE Communication Norge AS;ICE Norge AS;894707;2019-08-13
 N ice;ice;LTE 800;242;14;NOR;ICE Communication Norge AS;ICE Norge AS;894707;2019-08-13
@@ -2305,8 +2322,14 @@ PalauCel;PalauCel;3G 900;552;01;PLW;Palau National Communications Corporation (P
 PalauCel;PalauCel;GSM 900;552;01;PLW;Palau National Communications Corporation (PNCC) ;PalauCel;8968001;2012-11-21
 PalauCel;PalauCel;LTE-FDD 1800;552;01;PLW;Palau National Communications Corporation (PNCC) ;PalauCel;8968001;2019-10-14
 PalauCel;PalauCel;LTE-FDD 700;552;01;PLW;Palau National Communications Corporation (PNCC) ;PalauCel;8968001;2017-09-28
+PLW PMCI;PMCI;3G 1800;552;99;PLW;Palau Mobile Communications Inc.;Palau Mobile Communications Inc.;8968099;2022-04-22
+PLW PMCI;PMCI;3G 2100;552;99;PLW;Palau Mobile Communications Inc.;Palau Mobile Communications Inc.;8968099;2022-04-22
+PLW PMCI;PMCI;3G 850;552;99;PLW;Palau Mobile Communications Inc.;Palau Mobile Communications Inc.;8968099;2022-04-22
+PLW PMCI;PMCI;LTE 1800;552;99;PLW;Palau Mobile Communications Inc.;Palau Mobile Communications Inc.;8968099;2022-04-22
+PLW PMCI;PMCI;LTE 2100;552;99;PLW;Palau Mobile Communications Inc.;Palau Mobile Communications Inc.;8968099;2022-04-22
+PLW PMCI;PMCI;LTE 850;552;99;PLW;Palau Mobile Communications Inc.;Palau Mobile Communications Inc.;8968099;2022-04-22
 DIGICEL;DIGICEL;GSM 900;537;03;PNG;Digicel (PNG) Limited;Digicel PNG;8967503;2011-08-05
-bmobile;bmobile;GSM 900;537;01;PNG;Bemobile Limited  ;bmobile;8967501;2015-12-18
+bmobile;bmobile;GSM 900;537;01;PNG;Telikom Limited ;bmobile;8967501;2015-12-18
 PG VODAFONE;VODAFONE;3G 2100;537;04;PNG;Digitec Communications Limited ;VODAFONE;8967504;2021-07-12
 PG VODAFONE;VODAFONE;LTE 1800;537;04;PNG;Digitec Communications Limited ;VODAFONE;8967504;2021-07-12
 PG VODAFONE;VODAFONE;LTE 700;537;04;PNG;Digitec Communications Limited ;VODAFONE;8967504;2021-07-12
@@ -2374,6 +2397,10 @@ VODAFONE PF;VODAFONE;3G 2100;547;15;PYF;Pacific Mobile Telecom;VODAFONE;8968915;
 VODAFONE PF;VODAFONE;GSM 900;547;15;PYF;Pacific Mobile Telecom;VODAFONE;8968915;2017-07-05
 VODAFONE PF;VODAFONE;LTE 2100;547;15;PYF;Pacific Mobile Telecom;VODAFONE;8968915;2017-07-21
 VODAFONE PF;VODAFONE;LTE 800;547;15;PYF;Pacific Mobile Telecom;VODAFONE;8968915;2017-07-21
+VODAFONE PF;VODAFONE;LTE-FDD 1800;547;15;PYF;Pacific Mobile Telecom;VODAFONE;8968915;2022-06-08
+VODAFONE PF;VODAFONE;LTE-FDD 2600;547;15;PYF;Pacific Mobile Telecom;VODAFONE;8968915;2022-05-10
+VODAFONE PF;VODAFONE;LTE-FDD 700;547;15;PYF;Pacific Mobile Telecom;VODAFONE;8968915;2022-06-08
+VODAFONE PF;VODAFONE;NR n 78;547;15;PYF;Pacific Mobile Telecom;VODAFONE;8968915;2022-05-10
 VITI;VITI;LTE-FDD 2600;547;05;PYF;VITI SAS;VITI;8954705;2019-06-13
 VITI;VITI;LTE-FDD 800;547;05;PYF;VITI SAS;VITI;8954705;2019-06-13
 vodafone;VF-QA;3G 2100;427;02;QAT;Vodafone Qatar Q.S.C.;Vodafone Qatar;8942702;2016-03-16
@@ -2401,9 +2428,9 @@ TELCO OI;TELCO OI;GSM 900;647;02;REU;TELCO OI;TELCO OI;8926202;2019-04-29
 Orange re;Orange;GSM 1800;647;00;REU;Orange Réunion;Orange Reunion;8926200;2008-07-23
 Orange re;Orange;GSM 900;647;00;REU;Orange Réunion;Orange Reunion;8926200;2008-07-23
 SRR;SRR;GSM 900;647;10;REU;Société Réunionnaise du Radiotéléphone;SRR;893310;2019-08-05
-ZEOP;ZEOP;LTE 1800;647;04;REU;ZEOP Mobile ;ZEOP;8926204;2019-03-18
-ZEOP;ZEOP;LTE 2100;647;04;REU;ZEOP Mobile ;ZEOP;8926204;2019-03-18
-ZEOP;ZEOP;LTE 2600;647;04;REU;ZEOP Mobile ;ZEOP;8926204;2019-03-18
+ZEOP;ZEOP;LTE 1800;647;04;REU;ZEOP Mobile;ZEOP;8926204;2019-03-18
+ZEOP;ZEOP;LTE 2100;647;04;REU;ZEOP Mobile;ZEOP;8926204;2019-03-18
+ZEOP;ZEOP;LTE 2600;647;04;REU;ZEOP Mobile;ZEOP;8926204;2019-03-18
 RO Digi.Mobil;Digi;3G 2100;226;05;ROU;S.C. RCS & RDS S.A.;Digi.Mobil;894005;2015-12-14
 TELEKOM.RO;TELEKOM;3G 2100;226;03;ROU;Telekom Romania Mobile Communications S.A.;TELEKOM.RO;894003;2016-03-16
 TELEKOM.RO;TELEKOM;GSM 1800;226;03;ROU;Telekom Romania Mobile Communications S.A.;TELEKOM.RO;894003;2016-03-16
@@ -2420,16 +2447,16 @@ MOTIV;MOTIV;GSM 1800;250;35;RUS;LLC Ekaterinburg-2000;MOTIV;8970135;2015-12-14
 Tele2 RU;Tele2;3G 2100;250;20;RUS;LLC T2 Mobile;Tele2;8970120;2016-12-20
 Tele2 RU;Tele2;GSM 1800;250;20;RUS;LLC T2 Mobile;Tele2;8970120;2016-03-16
 Tele2 RU;Tele2;GSM 900;250;20;RUS;LLC T2 Mobile;Tele2;8970120;2016-12-20
-Beeline;Beeline;3G 2100;250;99;RUS;VimpelCom PJSC;Beeline;8970199;2016-03-16
-Beeline;Beeline;GSM 1800;250;99;RUS;VimpelCom PJSC;Beeline;8970199;2016-03-16
-Beeline;Beeline;GSM 900;250;99;RUS;VimpelCom PJSC;Beeline;8970199;2016-03-16
-Beeline;Beeline;LTE 2600;250;99;RUS;VimpelCom PJSC;Beeline;8970199;2016-03-16
-Beeline;Beeline;LTE 800;250;99;RUS;VimpelCom PJSC;Beeline;8970199;2016-03-16
-MegaFon RUS;MegaFon;3G 2100;250;02;RUS;MegaFon PJSC;MegaFon;8970102;2016-03-16
-MegaFon RUS;MegaFon;GSM 1800;250;02;RUS;MegaFon PJSC;MegaFon;8970102;2016-03-16
-MegaFon RUS;MegaFon;GSM 900;250;02;RUS;MegaFon PJSC;MegaFon;8970102;2016-03-16
-MegaFon RUS;MegaFon;LTE 2500;250;02;RUS;MegaFon PJSC;MegaFon;8970102;2016-03-16
-MegaFon RUS;MegaFon;LTE 2600;250;02;RUS;MegaFon PJSC;MegaFon;8970102;2016-03-16
+beeline;beeline;3G 2100;250;99;RUS;VimpelCom PJSC;beeline;8970199;2022-01-21
+beeline;beeline;GSM 1800;250;99;RUS;VimpelCom PJSC;beeline;8970199;2022-01-21
+beeline;beeline;GSM 900;250;99;RUS;VimpelCom PJSC;beeline;8970199;2022-01-21
+beeline;beeline;LTE 2600;250;99;RUS;VimpelCom PJSC;beeline;8970199;2022-01-21
+beeline;beeline;LTE 800;250;99;RUS;VimpelCom PJSC;beeline;8970199;2022-01-21
+MegaFon RUS;Megafon;3G 2100;250;02;RUS;MegaFon PJSC;MegaFon;8970102;2022-04-22
+MegaFon RUS;Megafon;GSM 1800;250;02;RUS;MegaFon PJSC;MegaFon;8970102;2022-04-22
+MegaFon RUS;Megafon;GSM 900;250;02;RUS;MegaFon PJSC;MegaFon;8970102;2022-04-22
+MegaFon RUS;Megafon;LTE 2500;250;02;RUS;MegaFon PJSC;MegaFon;8970102;2022-04-22
+MegaFon RUS;Megafon;LTE 2600;250;02;RUS;MegaFon PJSC;MegaFon;8970102;2022-04-22
 MTS RUS;MTS RUS;3G 2100;250;01;RUS;PJSC Mobile TeleSystems (MTS);MTS;8970101;2016-03-16
 MTS RUS;MTS RUS;3G 900;250;01;RUS;PJSC Mobile TeleSystems (MTS);MTS;8970101;2016-03-16
 MTS RUS;MTS RUS;GSM 1800;250;01;RUS;PJSC Mobile TeleSystems (MTS);MTS;8970101;2016-03-16
@@ -2462,6 +2489,9 @@ Mobily-KSA;Mobily;LTE-TD 2500;420;03;SAU;Etihad Etisalat Company;Mobily;8996603;
 stc;stc;3G 2100;420;01;SAU;Saudi Telecom Company (STC);stc;8996601;2020-01-27
 stc;stc;GSM 900;420;01;SAU;Saudi Telecom Company (STC);stc;8996601;2020-01-27
 stc;stc;LTE-TD 2300;420;01;SAU;Saudi Telecom Company (STC);stc;8996601;2020-01-27
+salam mobile;salam;GSM 1800;420;09;SAU;Integrated Telecom Mobile Company Ltd;salam mobile;8996609;2022-04-06
+salam mobile;salam;GSM 900;420;09;SAU;Integrated Telecom Mobile Company Ltd;salam mobile;8996609;2022-04-06
+salam mobile;salam;LTE 2100;420;09;SAU;Integrated Telecom Mobile Company Ltd;salam mobile;8996609;2022-04-06
 Zain SDN;Zain SD;3G 2100;634;01;SDN;Sudanese Mobile Telephone (Zain) Co. Ltd;Zain Sudan;8924901;2015-11-18
 Zain SDN;Zain SD;GSM 1800;634;01;SDN;Sudanese Mobile Telephone (Zain) Co. Ltd;Zain Sudan;8924901;2015-11-18
 Zain SDN;Zain SD;GSM 900;634;01;SDN;Sudanese Mobile Telephone (Zain) Co. Ltd;Zain Sudan;8924901;2015-11-18
@@ -2473,8 +2503,8 @@ SEN;Free;GSM 900;608;02;SEN;SAGA AFRICA HOLDING LIMITED;Free;8922102;2020-01-23
 SEN;Free;LTE-FDD 1800;608;02;SEN;SAGA AFRICA HOLDING LIMITED;Free;8922102;2020-01-23
 SEN;Free;LTE-FDD 800;608;02;SEN;SAGA AFRICA HOLDING LIMITED;Free;8922102;2020-01-23
 Orange SN;OrangeSN;GSM 900;608;01;SEN;Société Nationale des Télécommunications du Sénégal (SONATEL);Orange Senegal;8922101;2018-06-20
-SEN expresso;Expresso;GSM 1800;608;03;SEN;Sudan Telecom Company Ltd ;Expresso Senegal;8922103;2012-08-13
-SEN expresso;Expresso;GSM 900;608;03;SEN;Sudan Telecom Company Ltd ;Expresso Senegal;8922103;2012-08-13
+SEN expresso;Expresso;GSM 1800;608;03;SEN;Sudan Telecom Company Ltd;Expresso Senegal;8922103;2012-08-13
+SEN expresso;Expresso;GSM 900;608;03;SEN;Sudan Telecom Company Ltd;Expresso Senegal;8922103;2012-08-13
 StarHub;StarHub;3G 2100;525;08;SGP;StarHub Mobile Pte Ltd;StarHub;896505;2016-03-16
 StarHub;StarHub;LTE 1800;525;08;SGP;StarHub Mobile Pte Ltd;StarHub;896505;2016-03-16
 StarHub;StarHub;LTE 2600;525;08;SGP;StarHub Mobile Pte Ltd;StarHub;896505;2016-03-16
@@ -2495,9 +2525,9 @@ Singtel;Singtel;NR 3500;525;02;SGP;SingTel Mobile Singapore Pte. Ltd.;Singtel;89
 SGP-M1;M1;3G 2100;525;03;SGP;M1 Limited;M1 Limited;896503;2016-03-16
 SGP-M1;M1;LTE 1800;525;03;SGP;M1 Limited;M1 Limited;896503;2016-03-16
 SGP-M1;M1;LTE 2600;525;03;SGP;M1 Limited;M1 Limited;896503;2016-03-16
-TPG SG;TPG SG;LTE 900;525;10;SGP;TPG Telecom Pte. Ltd.;TPG SG;896510;2019-03-26
-TPG SG;TPG SG;LTE-TDD 2300;525;10;SGP;TPG Telecom Pte. Ltd.;TPG SG;896510;2019-03-26
-TPG SG;TPG SG;LTE-TDD 2600;525;10;SGP;TPG Telecom Pte. Ltd.;TPG SG;896510;2019-03-26
+TPG SG;TPG SG;LTE 900;525;10;SGP;Simba Telecom Pte. Ltd.;TPG SG;896510;2019-03-26
+TPG SG;TPG SG;LTE-TDD 2300;525;10;SGP;Simba Telecom Pte. Ltd.;TPG SG;896510;2019-03-26
+TPG SG;TPG SG;LTE-TDD 2600;525;10;SGP;Simba Telecom Pte. Ltd.;TPG SG;896510;2019-03-26
 Sure;Sure;GSM 1800;658;01;SHN;Sure South Atlantic (St Helena & Ascension Islands) Ltd;Sure South Atlantic Ltd (Ascension);8924701;2015-05-20
 Sure;Sure;GSM 900;658;01;SHN;Sure South Atlantic (St Helena & Ascension Islands) Ltd;Sure South Atlantic Ltd (Ascension);8924701;2015-05-20
 Our Telekom;Telekom;GSM 900;540;01;SLB;Solomon Telekom Company Limited;Our Telekom;8967701;2018-11-13
@@ -2527,21 +2557,21 @@ Hormuud Telecom;Hormuud;GSM 1800;637;50;SOM;Hormuud Telecommunication Incorporat
 Hormuud Telecom;Hormuud;GSM 900;637;50;SOM;Hormuud Telecommunication Incorporation;Hormuud Telecom Inc.;8925211;2016-08-08
 Hormuud Telecom;Hormuud;LTE 1800;637;50;SOM;Hormuud Telecommunication Incorporation;Hormuud Telecom Inc.;8925211;2016-08-08
 Hormuud Telecom;Hormuud;LTE 800;637;50;SOM;Hormuud Telecommunication Incorporation;Hormuud Telecom Inc.;8925211;2016-08-08
-SPM AMERIS;AMERIS;GSM 900;308;01;SPM;SPM Telecom ;AMERIS;8950801;2008-07-23
-SPM Telecom;SPM;LTE 1800;308;03;SPM;SPM Telecom ;SPM Telecom;8950801;2021-03-26
-SPM Telecom;SPM;LTE 800;308;03;SPM;SPM Telecom ;SPM Telecom;8950801;2021-03-26
-A1 SRB;A1 SRB;3G 2100;220;05;SRB;A1 Srbija d.o.o. Beograd ;A1 Srbija;8938105;2021-04-12
-A1 SRB;A1 SRB;GSM 1800;220;05;SRB;A1 Srbija d.o.o. Beograd ;A1 Srbija;8938105;2021-04-12
-A1 SRB;A1 SRB;GSM 900;220;05;SRB;A1 Srbija d.o.o. Beograd ;A1 Srbija;8938105;2021-04-12
-A1 SRB;A1 SRB;LTE 1800;220;05;SRB;A1 Srbija d.o.o. Beograd ;A1 Srbija;8938105;2021-04-12
+SPM AMERIS;AMERIS;GSM 900;308;01;SPM;SPM Telecom;AMERIS;8950801;2008-07-23
+SPM Telecom;SPM;LTE 1800;308;03;SPM;SPM Telecom;SPM Telecom;8950801;2021-03-26
+SPM Telecom;SPM;LTE 800;308;03;SPM;SPM Telecom;SPM Telecom;8950801;2021-03-26
+A1 SRB;A1 SRB;3G 2100;220;05;SRB;A1 Srbija d.o.o. Beograd;A1 Srbija;8938105;2021-04-12
+A1 SRB;A1 SRB;GSM 1800;220;05;SRB;A1 Srbija d.o.o. Beograd;A1 Srbija;8938105;2021-04-12
+A1 SRB;A1 SRB;GSM 900;220;05;SRB;A1 Srbija d.o.o. Beograd;A1 Srbija;8938105;2021-04-12
+A1 SRB;A1 SRB;LTE 1800;220;05;SRB;A1 Srbija d.o.o. Beograd;A1 Srbija;8938105;2021-04-12
 mt:s;MTS;3G 2100;220;03;SRB;Telekom Srbija a.d.;Telekom Srbija;8938103;2016-03-16
 mt:s;MTS;GSM 1800;220;03;SRB;Telekom Srbija a.d.;Telekom Srbija;8938103;2016-03-16
 mt:s;MTS;GSM 900;220;03;SRB;Telekom Srbija a.d.;Telekom Srbija;8938103;2016-03-16
 mt:s;MTS;LTE 1800;220;03;SRB;Telekom Srbija a.d.;Telekom Srbija;8938103;2016-03-16
-Telenor SRB;Telenor;3G 2100;220;01;SRB;Telenor d.o.o.;Telenor;8938101;2015-11-04
-Telenor SRB;Telenor;GSM 1800;220;01;SRB;Telenor d.o.o.;Telenor;8938101;2015-11-04
-Telenor SRB;Telenor;GSM 900;220;01;SRB;Telenor d.o.o.;Telenor;8938101;2015-11-04
-Telenor SRB;Telenor;LTE 1800;220;01;SRB;Telenor d.o.o.;Telenor;8938101;2015-11-04
+Telenor SRB;Telenor;3G 2100;220;01;SRB;Yettel d.o.o. Belgrade;Telenor;8938101;2015-11-04
+Telenor SRB;Telenor;GSM 1800;220;01;SRB;Yettel d.o.o. Belgrade;Telenor;8938101;2015-11-04
+Telenor SRB;Telenor;GSM 900;220;01;SRB;Yettel d.o.o. Belgrade;Telenor;8938101;2015-11-04
+Telenor SRB;Telenor;LTE 1800;220;01;SRB;Yettel d.o.o. Belgrade;Telenor;8938101;2015-11-04
 ZAIN SS;ZAIN SS;GSM 1800;659;06;SSD;Sudanese Mobile Telephone (Zain South Sudan) Co.Ltd;Sudanese Mobile Telephone (ZAIN) CO.LTD;8921101;2014-11-18
 ZAIN SS;ZAIN SS;GSM 900;659;06;SSD;Sudanese Mobile Telephone (Zain South Sudan) Co.Ltd;Sudanese Mobile Telephone (ZAIN) CO.LTD;8921101;2014-11-18
 Digitel;DT-SSD;GSM 1800;659;05;SSD;DIGITEL Holdings Ltd.;Digitel;8921105;2021-03-19
@@ -2577,7 +2607,7 @@ Telekom SK;Telekom;3G 2100;231;02;SVK;Slovak Telekom, a.s.;Telekom;8942102;2016-
 Telekom SK;Telekom;GSM 1800;231;02;SVK;Slovak Telekom, a.s.;Telekom;8942102;2016-03-16
 Telekom SK;Telekom;GSM 900;231;02;SVK;Slovak Telekom, a.s.;Telekom;8942102;2016-03-16
 Telekom SK;Telekom;LTE 1800;231;02;SVK;Slovak Telekom, a.s.;Telekom;8942102;2016-03-16
-SWAN SK;SWAN SK;LTE 1800;231;03;SVK;SWAN Mobile, a.s.;SWAN SK;894210;2016-03-16
+SWAN SK;SWAN SK;LTE 1800;231;03;SVK;SWAN, a.s.;SWAN SK;894210;2016-03-16
 T-2;T-2;3G 2100;293;64;SVN;T-2 d.o.o.;T-2;8938664;2011-07-22
 TELEMACH;TELEMACH;3G 2100;293;70;SVN;Telemach d.o.o.;TELEMACH;8938670;2016-05-13
 TELEMACH;TELEMACH;3G 900;293;70;SVN;Telemach d.o.o.;TELEMACH;8938670;2016-05-13
@@ -2601,11 +2631,11 @@ MOBITEL;MOBITEL;LTE 900;293;41;SVN;Telekom Slovenije d.d.;MOBITEL;8938641;2015-1
 SWEDEN;SWE;3G 2100;240;04;SWE;Hi3G Access AB;Hi3G Access AB / Telenor Sverige AB;894608;2016-03-16
 3 SE;3 SE;3G 2100;240;02;SWE;Hi3G Access AB;3;894607;2016-03-16
 Sweden 3G;Sweden3G;3G 2100;240;05;SWE;Telia Company AB;TeliaSonera shared with COMVIQ GSM;894601;2016-02-04
-TELIA S;TELIA;GSM 1800;240;01;SWE;Telia Company AB;TeliaSonera;894601;2016-02-04
-TELIA S;TELIA;GSM 900;240;01;SWE;Telia Company AB;TeliaSonera;894601;2016-02-04
-TELIA S;TELIA;LTE 1800;240;01;SWE;Telia Company AB;TeliaSonera;894601;2016-02-04
-TELIA S;TELIA;LTE 2600;240;01;SWE;Telia Company AB;TeliaSonera;894601;2016-02-04
-TELIA S;TELIA;LTE 800;240;01;SWE;Telia Company AB;TeliaSonera;894601;2016-02-04
+Telia SE;Telia;GSM 1800;240;01;SWE;Telia Company AB;TeliaSonera;894601;2022-05-06
+Telia SE;Telia ;GSM 900;240;01;SWE;Telia Company AB;TeliaSonera;894601;2022-05-06
+Telia SE;Telia;LTE 1800;240;01;SWE;Telia Company AB;TeliaSonera;894601;2022-05-06
+Telia SE;Telia;LTE 2600;240;01;SWE;Telia Company AB;TeliaSonera;894601;2022-05-06
+Telia SE;Telia;LTE 800;240;01;SWE;Telia Company AB;TeliaSonera;894601;2022-05-06
 SWEDEN;SWE;3G 2100;240;04;SWE;Telenor Sverige AB;Telenor Sverige AB / Hi3G Access AB;;2016-05-25
 Sweden Mobile;MobileS;GSM 1800;240;24;SWE;Telenor Sverige AB;Telenor Sverige AB / Tele2 AB (Shared Network);;2017-03-13
 Sweden Mobile;MobileS;GSM 900;240;24;SWE;Telenor Sverige AB;Telenor Sverige AB / Tele2 AB (Shared Network);;2017-03-13
@@ -2645,9 +2675,7 @@ Airtel;Airtel;GSM 900;622;01;TCD;Airtel Tchad;Airtel;8923501;2014-10-31
 Airtel;Airtel;LTE 1800;622;01;TCD;Airtel Tchad;Airtel;8923501;2021-06-17
 ETISALAT TOGO;ETISALAT;GSM 900;615;03;TGO;Moov Africa Togo S.A.;ETISALAT;8922803;2012-01-16
 TG-TOGO CELL;TGCELL;GSM 900;615;01;TGO;Togo Telecom;TOGO CELL;8922801;2016-03-01
-TH 3G+;TH 3G+;3G 850;520;00;THA;CAT Telecom Public Company;CAT Telecom PLC;896600;2012-04-20
-TOT Mobile;TOT;3G 2100;520;15;THA;TOT PLC;TOT Mobile;896615;2019-01-15
-TOT Mobile;TOT;LTE 2300;520;47;THA;TOT PLC;TOT Mobile;896615;2019-01-15
+TH 3G+;TH 3G+;3G 850;520;00;THA;National Telecom Public Company Limited;CAT Telecom PLC;896600;2012-04-20
 AISatSea;AISatSea;3G 2100;901;45;THA;Advanced Wireless Network Company Limited;AIS;;2016-08-08
 AIS;AIS;GSM 900;520;01;THA;Advanced Wireless Network Company Limited;AIS;;2016-08-08
 AIS;AIS;3G 2100;520;03;THA;Advanced Wireless Network Company Limited;AIS;896603;2016-08-08
@@ -2676,9 +2704,6 @@ Babilon-M;Babilon;3G 2100;436;04;TJK;CJSC Babilon-Mobile;Babilon-M;8999204;2015-
 Babilon-M;Babilon;GSM 900;436;04;TJK;CJSC Babilon-Mobile;Babilon-M;8999204;2015-10-26
 Babilon-M;Babilon;LTE 1800;436;04;TJK;CJSC Babilon-Mobile;Babilon-M;8999204;2019-03-19
 Babilon-M;Babilon;LTE 2100;436;04;TJK;CJSC Babilon-Mobile;Babilon-M;8999204;2019-03-19
-MegaFon TJK;MegaFon;3G 2100;436;03;TJK;TT Mobile, Closed Joint Stock Company ;MegaFon Tajikistan;8999203;2012-07-05
-MegaFon TJK;MegaFon;GSM 1800;436;03;TJK;TT Mobile, Closed Joint Stock Company ;MegaFon Tajikistan;8999203;2011-12-01
-MegaFon TJK;MegaFon;GSM 900;436;03;TJK;TT Mobile, Closed Joint Stock Company ;MegaFon Tajikistan;8999203;2011-12-01
 Teletok;TTOK;LTE 700;554;01;TKL;Telecommunications Tokelau Corporation;Teletok;896900;2016-12-08
 TM CELL;TM CELL;GSM 1800;438;02;TKM;Altyn-Asyr Close Joint-Stock Company;Altyn Asyr;8999302;2012-07-05
 TM CELL;TM CELL;GSM 900;438;02;TKM;Altyn-Asyr Close Joint-Stock Company;Altyn Asyr;8999302;2012-07-05
@@ -2746,12 +2771,12 @@ TWN APT;APT;LTE-TDD 2600;466;05;TWN;Asia Pacific Telecom Co., Ltd. (APT);TWN APT
 Airtel;Airtel;GSM 1800;640;05;TZA;Airtel Tanzania Plc;Airtel;8925505;2014-08-13
 Airtel;Airtel;GSM 400;640;05;TZA;Airtel Tanzania Plc;Airtel;8925505;2014-08-13
 Airtel;Airtel;GSM 900;640;05;TZA;Airtel Tanzania Plc;Airtel;8925505;2014-08-13
-TIGO - TZ;TIGO;3G 2100;640;02;TZA;MIC Tanzania Limited;Tigo;8925502;2018-04-17
-TIGO - TZ;TIGO;3G 900;640;02;TZA;MIC Tanzania Limited;Tigo;8925502;2018-04-17
-TIGO - TZ;TIGO;GSM 1800;640;02;TZA;MIC Tanzania Limited;Tigo;8925502;2018-04-17
-TIGO - TZ;TIGO;GSM 900;640;02;TZA;MIC Tanzania Limited;Tigo;8925502;2018-04-17
-TIGO - TZ;TIGO;LTE 1800;640;02;TZA;MIC Tanzania Limited;Tigo;8925502;2018-04-20
-TIGO - TZ;TIGO;LTE 800;640;02;TZA;MIC Tanzania Limited;Tigo;8925502;2018-04-20
+TIGO - TZ;TIGO;3G 2100;640;02;TZA;MIC Tanzania PLC;Tigo;8925502;2018-04-17
+TIGO - TZ;TIGO;3G 900;640;02;TZA;MIC Tanzania PLC;Tigo;8925502;2018-04-17
+TIGO - TZ;TIGO;GSM 1800;640;02;TZA;MIC Tanzania PLC;Tigo;8925502;2018-04-17
+TIGO - TZ;TIGO;GSM 900;640;02;TZA;MIC Tanzania PLC;Tigo;8925502;2018-04-17
+TIGO - TZ;TIGO;LTE 1800;640;02;TZA;MIC Tanzania PLC;Tigo;8925502;2018-04-20
+TIGO - TZ;TIGO;LTE 800;640;02;TZA;MIC Tanzania PLC;Tigo;8925502;2018-04-20
 VodaCom;VodaCom;GSM 1800;640;04;TZA;Vodacom Tanzania Limited;Vodacom Tanzania Limited;8925504;2016-03-16
 VodaCom;VodaCom;GSM 900;640;04;TZA;Vodacom Tanzania Limited;Vodacom Tanzania Limited;8925504;2016-03-16
 ZANTEL-TZ;ZANTEL;GSM 1800;640;03;TZA;Zanzibar Telecom Public Limited Company;ZANTEL;8925503;2015-12-03
@@ -2826,7 +2851,7 @@ USA Dutch Harbor;D-HARBOR;GSM 850;310;190;USA;The Alaska Wireless Network, LLC ;
 GCI;GCI;GSM 1900;310;050;USA;The Alaska Wireless Network, LLC ;GCI Communications Corp.;890131;2019-03-26
 GCI;GCI;GSM 1900;311;370;USA;The Alaska Wireless Network, LLC ;GCI Communications Corp.;891026;2016-03-16
 USACWCI;CWCI;3G 850;311;240;USA;Cordova Wireless Communications LLC;Cordova Wireless Communications;8901240;2014-06-13
-BigSkyUS;Big Sky;GSM 1900;310;300;USA;iSmart Mobile, LLC ;Big Sky Mobile;8901300;2016-03-16
+BigSkyUS;Big Sky;GSM 1900;310;300;USA;iSmart Mobile, LLC;Big Sky Mobile;8901300;2016-03-16
 Cell One;Cell One;GSM 1900;310;570;USA;MTPCS, LLC;Cellular One;891570;2016-04-22
 USAC1ECI;C1ECI;GSM 850;311;190;USA;Cellular Properties, Inc  ;Cellular One of East Central Illinois;8901190;2008-07-23
 Pine Cellular;PINECell;GSM 850;311;080;USA;Pine Telephone Company;Pine Cellular;8901080;2012-07-05
@@ -2978,8 +3003,6 @@ UzMobile;UzMobile;GSM 1800;434;08;UZB;Uzbektelecom Joint-Stock Company;UzMobile;
 UzMobile;UzMobile;GSM 900;434;08;UZB;Uzbektelecom Joint-Stock Company;UzMobile;899989;2016-02-02
 UzMobile;UzMobile;NR n 78;434;08;UZB;Uzbektelecom Joint-Stock Company;UzMobile;899989;2021-02-01
 FLOW;FLOW;GSM 850;360;110;VCT;Cable & Wireless (St. Vincent & the Grenadines) Ltd;FLOW;8901022;2016-08-22
-DIGICEL;DIGICEL;GSM 1800;360;070;VCT;Digicel SVG Ltd;Digicel (St. Vincent and Grenadines);891;2016-02-23
-DIGICEL;DIGICEL;GSM 900;360;070;VCT;Digicel SVG Ltd;Digicel (St. Vincent and Grenadines);891;2016-02-23
 Movistar;Movistar;GSM 850;734;04;VEN;Telefónica Venezolana, C.A.;Movistar;895804;2015-12-03
 DIGITEL;DIGITEL;3G 900;734;02;VEN;Corporacion Digitel C.A.;DIGITEL;895802;2015-09-23
 DIGITEL;DIGITEL;GSM 1800;734;02;VEN;Corporacion Digitel C.A.;DIGITEL;895802;2017-05-16
@@ -3010,7 +3033,7 @@ DIGICEL;DIGICEL;GSM 900;549;00;WSM;Digicel (Samoa) Limited;Digicel;8968500;2011-
 Bluesky;Bluesky;3G 900;549;27;WSM;Vodafone Samoa Limited;Bluesky Samoa Limited;8968527;2012-10-19
 Bluesky;Bluesky;GSM 900;549;27;WSM;Vodafone Samoa Limited;Bluesky Samoa Limited;8968527;2012-10-19
 SabaFon;SABAFON;GSM 900;421;01;YEM;Yemen Mobile Phone Company - Sabafon;Yemen Company for Mobile Telephony;8996701;2015-12-03
-MTN;MTN;GSM 900;421;02;YEM;MTN Yemen;MTN;8996702;2014-10-31
+MTN;MTN;GSM 900;421;02;YEM;YOU Yemen Oman United Telecom;MTN;8996702;2014-10-31
 TelkomSA-R;Telkom-R;3G 2100;655;05;ZAF;Telkom SA Ltd;Telkom SA Ltd;892702;2019-06-13
 TelkomSA;Telkom;3G 2100;655;02;ZAF;Telkom SA Ltd;Telkom SA Ltd;892702;2019-06-13
 TelkomSA-R;Telkom-R;3G 900;655;05;ZAF;Telkom SA Ltd;Telkom SA Ltd;892702;2019-06-13
@@ -3024,10 +3047,10 @@ TelkomSA;Telkom;LTE 2300;655;02;ZAF;Telkom SA Ltd;Telkom SA Ltd;892702;2019-06-1
 Cell C;Cell C;3G 2100;655;07;ZAF;Cell C (Pty) Ltd;Cell C;892703;2018-05-14
 Cell C;Cell C;GSM 1800;655;07;ZAF;Cell C (Pty) Ltd;Cell C;892703;2015-09-23
 Cell C;Cell C;GSM 900;655;07;ZAF;Cell C (Pty) Ltd;Cell C;892703;2015-09-23
-VodaCom-SA;Vodacom;3G 2100;655;01;ZAF;Vodacom (Pty) Ltd. ;VodaCom;8965501;2016-05-25
-VodaCom-SA;Vodacom;GSM 1800;655;01;ZAF;Vodacom (Pty) Ltd. ;VodaCom;8965501;2016-05-25
-VodaCom-SA;Vodacom;GSM 900;655;01;ZAF;Vodacom (Pty) Ltd. ;VodaCom;8965501;2016-05-25
-VodaCom-SA;Vodacom;LTE 1800;655;01;ZAF;Vodacom (Pty) Ltd. ;VodaCom;8965501;2016-05-25
+VodaCom-SA;Vodacom;3G 2100;655;01;ZAF;Vodacom (Pty) Ltd.;VodaCom;8965501;2016-05-25
+VodaCom-SA;Vodacom;GSM 1800;655;01;ZAF;Vodacom (Pty) Ltd.;VodaCom;8965501;2016-05-25
+VodaCom-SA;Vodacom;GSM 900;655;01;ZAF;Vodacom (Pty) Ltd.;VodaCom;8965501;2016-05-25
+VodaCom-SA;Vodacom;LTE 1800;655;01;ZAF;Vodacom (Pty) Ltd.;VodaCom;8965501;2016-05-25
 MTN-SA;MTN;3G 2100;655;10;ZAF;Mobile Telephone Networks (Pty) Ltd.;MTN-SA;892701;2016-12-09
 MTN-SA;MTN;3G 900;655;10;ZAF;Mobile Telephone Networks (Pty) Ltd.;MTN-SA;892701;2004-04-16
 MTN-SA;MTN;GSM 1800;655;10;ZAF;Mobile Telephone Networks (Pty) Ltd.;MTN-SA;892701;2016-12-09

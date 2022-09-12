@@ -5,7 +5,7 @@
         <key>ICE</key>
         <dict>
             <key>GRI Revision</key>
-            <string>8.2.1</string>
+            <string>9.0.4</string>
         </dict>
         <key>COMMENT</key>
         <string>NA LTE Band Regulation</string>
@@ -449,7 +449,7 @@
         <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[19].mcc</key>
         <integer>364</integer>
         <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[19].lte_band_mask_1_32</key>
-        <integer>0x0001100b</integer>
+        <integer>0x0001101b</integer>
         <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[19].lte_band_mask_33_64</key>
         <integer>0x0</integer>
         <key>dyn_csi_cps_gri.gri_nvm.na_lte_regulatory_table[19].lte_band_mask_65_96</key>
@@ -738,7 +738,7 @@
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[36].mcc</key>
         <integer>412</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[36].lte_band_mask_1_32</key>
-        <integer>0x00000004</integer>
+        <integer>0x00000005</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[36].lte_band_mask_33_64</key>
         <integer>0x0</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[36].lte_band_mask_65_96</key>
@@ -1194,9 +1194,9 @@
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[39].mcc</key>
         <integer>452</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[39].lte_band_mask_1_32</key>
-        <integer>0x000000c5</integer>
+        <integer>0x080000c5</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[39].lte_band_mask_33_64</key>
-        <integer>0x0</integer>
+        <integer>0x00000180</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[39].lte_band_mask_65_96</key>
         <integer>0x0</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[39].lte_band_mask_97_128</key>
@@ -1251,9 +1251,9 @@
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[26].mcc</key>
         <integer>456</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[26].lte_band_mask_1_32</key>
-        <integer>0x080000dd</integer>
+        <integer>0x080000d5</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[26].lte_band_mask_33_64</key>
-        <integer>0x000023a2</integer>
+        <integer>0x000001a0</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[26].lte_band_mask_65_96</key>
         <integer>0x0</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[26].lte_band_mask_97_128</key>
@@ -1365,9 +1365,9 @@
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[32].mcc</key>
         <integer>472</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[32].lte_band_mask_1_32</key>
-        <integer>0x000000C5</integer>
+        <integer>0x000000c5</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[32].lte_band_mask_33_64</key>
-        <integer>0x0</integer>
+        <integer>0x00008000</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[32].lte_band_mask_65_96</key>
         <integer>0x0</integer>
         <key>dyn_csi_cps_gri.gri_nvm.asia_lte_regulatory_table[32].lte_band_mask_97_128</key>
@@ -2796,7 +2796,7 @@
         <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[16].mcc</key>
         <integer>738</integer>
         <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[16].lte_band_mask_1_32</key>
-        <integer>0x08010004</integer>
+        <integer>0x08010014</integer>
         <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[16].lte_band_mask_33_64</key>
         <integer>0x0</integer>
         <key>dyn_csi_cps_gri.gri_nvm.la_lte_regulatory_table[16].lte_band_mask_65_96</key>
@@ -4132,7 +4132,7 @@
         <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[8].mcc</key>
         <integer>541</integer>
         <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[8].lte_band_mask_1_32</key>
-        <integer>0x08000004</integer>
+        <integer>0x08000084</integer>
         <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[8].lte_band_mask_33_64</key>
         <integer>0x00000080</integer>
         <key>dyn_csi_cps_gri.gri_nvm.ocean_lte_regulatory_table[8].lte_band_mask_65_96</key>
